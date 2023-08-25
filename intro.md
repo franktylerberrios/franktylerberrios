@@ -1,3 +1,0 @@
-- Hi, I’m @franktylerberrios, a rising junior at Harvard University pursuing a double concentration in Economics and Government.
-- I’m interested in big data applications to public policy, research, and more.
-- My research areas include wealth and income inequality, social stratification, and education.
